@@ -1,0 +1,20 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url("../img/1042741.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.texte_acceuil{
+    height: 100vh;
+    min-height: 500px;
+    background-image: url("../img/enzo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+}
